@@ -174,3 +174,11 @@ This project was developed by an [Prof. Llewellyn van Zyl (PhD)](https://www.lin
 ---
 
 Feel free to fork, adapt, or collaborate to improve wellbeing classification pipelines.
+
+---
+## 🛡 License
+
+This project is licensed under the MIT License.  
+You are free to use, modify, and distribute it with attribution.  
+© 2025 Prof. Llewellyn van Zyl. See [LICENSE](./LICENSE) for details.
+
